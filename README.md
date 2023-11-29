@@ -1,4 +1,3 @@
-<!-- PROJECT LOGO -->
 <h1>
   <div align="center">
     <a href="https://github.com/kavindu-dilshan/Booklr.git">
@@ -7,16 +6,16 @@
   </a>
 </h1>
 
-## Project Description
+##Project Description
 This project is a website for an online book store named <b>"Booklr"</b> created with HTML, CSS, JS, Bootstrap, PHP, and MySQL. XAMPP is used to configure PHP and MySQL.<br><br>
 <img  src="https://github.com/DishaKD/Booklr/blob/master/Images/Readme Images/Screen Shots/website (2).png"  alt="Logo">
 
-## About the Project
+##About the Project
 The website was developed using a combination of HTML and Bootstrap 5, seamlessly integrated into PHP files and enhanced with styles from external CSS files. For backend functionality, internal PHP scripts were employed, complemented by external JavaScript for dynamic interactions. The database management and local server hosting were facilitated through XAMPP.
 
 In crafting the front end, resources from <a href="https://mdbootstrap.com/"> MD Bootsrap</a> and <a href="https://freefrontend.com/"> Free Front End</a> were instrumental. These platforms provided valuable assets and design elements that greatly contributed to the aesthetic and functional aspects of the website. The incorporation of these resources, along with meticulous styling using external CSS, resulted in a visually appealing and user-friendly web interface.
 
-## How to set up the Booklr?
+##How to set up the Booklr?
 To download and set up the Booklr project, follow these step-by-step instructions:
 <ol>
   <li><b>Download Booklr Project:</b></li>
@@ -70,14 +69,14 @@ To download and set up the Booklr project, follow these step-by-step instruction
 </ol>
 The website should now be accessible, providing an interface to interact with the Booklr project.
 
-## UI/UX Designs 
+##UI/UX Designs 
 Booklr website was built according to wireframes. All the wireframes are in the <a href="images/ReadMe/Wireframes">Wireframes</a> Folder.
 
-## User Journeys of Booklr
+##User Journeys of Booklr
 User journeys were created to identify user behavior in Booklr. Go all the user journeys through <a href="images/ReadMe/User Journey">User Journey</a> Folder.
 <div  align="center">
 
-## Contributors
+##Contributors
 Contributors to make Booklr successful.<br><br>
 <a href="https://www.linkedin.com/in/dishal/"><img src="images/ReadMe/Members/dk-modified.png" alt="Dishal" title="Dishal" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
