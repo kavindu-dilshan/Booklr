@@ -1,0 +1,74 @@
+/*Main Logo*/
+.img-fluid {
+  margin-left: auto;
+  margin-right: auto;
+}
+/*Icon Bar*/
+.icon-bar {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(5rem, 0.5fr));
+  gap: 1rem;
+  text-align: center;
+}
+
+.icon-bar .icons {
+  gap: 1rem;
+  padding: 2rem 0;
+}
+
+.icon-bar .icons i {
+  color: #4169e1;
+  font-size: 2.5rem;
+  padding-bottom: 2rem;
+}
+
+.icon-bar .icons h3 {
+  font-size: 1.2rem;
+  padding-bottom: 0.5rem;
+}
+
+.icon-bar .icons p {
+  font-size: 1rem;
+  color: lightslategray;
+}
+/*Icon Bar ends*/
+
+/*Bestseller & toprated section*/
+.paragraph-toprated a {
+  text-align: right;
+  text-decoration: none;
+}
+.toprated-books,
+.bestseller-books {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2rem 0;
+  gap: 20px;
+  margin-left: 60px;
+  margin-right: auto;
+  text-align: center;
+}
+
+.bestseller-books img,
+.toprated-books img {
+  width: 13rem;
+  height: 19rem;
+}
+
+.details {
+  padding: 10px;
+}
+
+.toprated-Section h5 {
+  text-align: center;
+}
+
+.toprated-books a {
+  text-decoration: none;
+}
+
+/*Bestseller slider*/
+
+.details {
+  text-align: center;
+}

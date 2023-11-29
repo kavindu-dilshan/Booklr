@@ -1,0 +1,65 @@
+/*Use for normal texts*/
+body {
+  font-size: 15px;
+  font-family: sans-serif;
+  margin: 0;
+  display: grid;
+}
+
+.orderlist {
+  background-color: #f2f2f2;
+  padding: 30px;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+  margin: auto;
+  width: 700px;
+  max-width: 600px;
+  border-radius: 20px;
+}
+
+.orders {
+  flex: 25%;
+  padding: 0 16px;
+}
+span.price {
+  float: right;
+  color: blue;
+}
+
+.orders {
+  margin-bottom: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+.orderlist img {
+  width: 100px;
+  height: auto;
+  border-radius: 5px;
+}
+.orderlist span {
+  padding: 10px;
+  text-align: center;
+}
+
+.cancel-button {
+  background-color: rgb(223, 35, 35); /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.orderlist input {
+  float: right;
+  bottom: 1px;
+}
+
+.msg {
+  text-align: center;
+}
